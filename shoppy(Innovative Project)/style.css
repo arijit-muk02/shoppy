@@ -1,0 +1,172 @@
+.body{
+    margin: 0;
+    padding: 0;
+    }
+.navbar{
+    opacity:0.9;
+}
+.carousel-item 
+{       margin-top: 5%;
+        background-size:cover;
+} 
+.umbrella{
+    height:8em;
+    width:8em;
+    margin-left: 30%;
+    }
+#wel-p{
+    margin-left: 3em;
+}
+.wel-h1{
+    text-align: center;
+    margin-top: 6%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.wel-row{
+    margin:5%;
+    justify-content: center;
+}
+.card-size{
+    
+    margin-left: 15%;
+    margin-right:15%;
+}
+.bi{
+    height:3em;
+    width:3em;
+    padding: 2px;
+    margin-left: 40%;
+    border-radius: 35%;
+    color: aliceblue;
+    background-color:#5e3a85;
+    }
+.card-body{
+    text-align: center;
+}
+.crd-border{
+    border-color: ivory;
+}
+.btn-color{
+    background-color: #5e3a85;
+    border-color: #5e3a85;
+}
+#project{
+    margin:1em;
+}
+.gap{
+    margin-top: 2em;
+}
+.body-color{
+    background-color:#d0d3d9 ;
+}
+.btn-hover:hover{
+    background-color:#d49b20;
+    border-color:#d49b20 ;
+}
+.hover-back:hover{
+    background-color:#d49b20;
+    cursor:context-menu;
+}
+.price-margin{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.card-bord{
+        border-bottom: none;
+    border-top: none;
+}
+#pricing{
+    margin-bottom: 30px;
+}
+.vid{
+        padding: 2rem;
+        padding-bottom: 5em; 
+        display: flex;    
+        overflow-x: auto;
+    }
+.vid iframe {
+        margin-right: 50px;
+    }
+/* .vid::-webkit-scrollbar 
+{    
+    display: none;
+} */
+.vid-section{
+    margin:1em;
+    background-color: #5e3a85;
+}
+.vid-h1{
+    color: aliceblue;
+    padding-top: 1em;
+}
+ .size{
+     margin-left: 25%;
+     margin-right: 25%;
+ }
+ .card-gap{
+     margin: 1.5em;
+     border: none;
+ }
+ .img-radius{
+     border-radius: 50%;
+ }
+ /* .img-hover:hover{
+     background-image: url(https://i.pinimg.com/originals/92/13/bb/9213bba1f1e0195cbca5587a4a4dfcbe.png);
+     background-color: #000;
+     border-radius: 50%;
+     opacity:0.9;
+ } */
+  
+ .news-align{
+    margin-left:25%; 
+    padding: 4em;
+     }
+
+ #newsletter{
+     background-image: url(https://w.wallha.com/ws/4/dOaPNXcj.jpg);
+     background-size: cover;
+     background-repeat: no-repeat; 
+     background-position:center;
+        }
+.blog-gap{
+    margin-left: 18%;
+    margin-right: 18%;
+}
+.blog-card{
+    border:none;
+    padding-top: 1em;
+}
+.contact-color{
+    background-color: #f0d043;
+}
+#contact{
+    padding-top: 2em;
+    }
+.contact-color h2{
+    text-align:center;
+}
+.footer{
+    padding-top: 1em;
+}
+.foot-size
+{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.foot{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.foot-bor{
+    border:none;
+}
+#foot-img{
+    height:5em;
+    width:6em;
+}
+.footer-copyright
+{
+    background-color:#5e3a85 ;
+    color: ivory;
+    opacity: 0.9;
+}
